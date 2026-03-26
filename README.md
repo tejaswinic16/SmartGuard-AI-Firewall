@@ -1,6 +1,10 @@
 HEAD
 # 🛡️ SmartGuard - AI-Powered LLM Firewall
 
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartguard-ai-firewall.streamlit.app/)
+
 ## 📌 Overview
 
 SmartGuard is an AI-based firewall designed to detect whether a user prompt is **Safe** or **Unsafe** before it is processed by a Large Language Model (LLM).
