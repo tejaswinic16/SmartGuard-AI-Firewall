@@ -1,9 +1,6 @@
-transformers
-torch
 streamlit
-fastapi
-uvicorn
+torch
+transformers
+detoxify
 pandas
-numpy
-scikit-learn
-matplotlib
+sentencepiece

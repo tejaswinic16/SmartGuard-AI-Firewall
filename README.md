@@ -1,3 +1,4 @@
+HEAD
 # 🛡️ SmartGuard - AI-Powered LLM Firewall
 
 ## 📌 Overview
@@ -66,7 +67,7 @@ SmartGuard/
 │
 ├── classifier.py        # Core AI detection logic
 ├── evaluator.py         # Evaluation & metrics
-├── dashboard/
+y├── dashboard/
 │   └── app.py           # Streamlit UI
 │
 ├── data/                # Test dataset
@@ -138,6 +139,8 @@ The system evaluates performance using:
   * True Negatives (TN)
   * False Negatives (FN)
 
+
+
 ---
 
 ## 🧠 Methodology
@@ -176,10 +179,13 @@ SmartGuard demonstrates a practical approach to **AI safety**, combining multipl
 
 ## 👩‍💻 Author
 
-Tejaswini Gowda
+Tejaswini C
 
 ---
 
 ## 📜 License
 
 This project is for educational purposes.
+
+# update
+6cy98d18c (Trigger redeploy)
