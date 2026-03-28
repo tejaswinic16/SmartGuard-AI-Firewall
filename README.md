@@ -70,7 +70,6 @@ SmartGuard/
 ├── dashboard/
 │   └── app.py           # Streamlit UI
 │
-├── data/                # Test dataset
 ├── requirements.txt     # Dependencies
 └── README.md
 ```
