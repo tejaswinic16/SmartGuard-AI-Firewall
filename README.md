@@ -67,7 +67,7 @@ SmartGuard/
 │
 ├── classifier.py        # Core AI detection logic
 ├── evaluator.py         # Evaluation & metrics
-y├── dashboard/
+├── dashboard/
 │   └── app.py           # Streamlit UI
 │
 ├── data/                # Test dataset
